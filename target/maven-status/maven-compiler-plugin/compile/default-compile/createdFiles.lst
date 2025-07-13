@@ -1,0 +1,12 @@
+com\dispatch\config\ValidationConfig.class
+com\dispatch\controller\DispatchController.class
+com\dispatch\model\Vehicle.class
+com\dispatch\repository\VehicleRepository.class
+com\dispatch\dto\DispatchPlanResponseDTO.class
+com\dispatch\model\DeliveryOrder.class
+com\dispatch\util\HaversineCalculator.class
+com\dispatch\exception\GlobalExceptionHandler.class
+com\dispatch\DispatchLoadBalancerApplication.class
+com\dispatch\model\Priority.class
+com\dispatch\service\DispatchService.class
+com\dispatch\repository\OrderRepository.class

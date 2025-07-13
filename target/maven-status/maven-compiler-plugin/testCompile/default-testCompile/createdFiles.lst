@@ -1,0 +1,3 @@
+com\dispatch\controller\DispatchControllerTest.class
+com\dispatch\service\DispatchServiceTest.class
+com\dispatch\model\DeliveryOrderTest.class
